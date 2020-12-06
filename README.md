@@ -9,7 +9,7 @@
   # Website:
      1. Login, Signup, Forgot password.
      2. Like, Comment, Share, Tag, Remove tag, Copy post link, Delete post, Edit post, Open post.
-     3. Get suggestions on whome to follow (you can also refresh suggestions).
+     3. Get suggestions on whom to follow (you can also refresh suggestions).
      4. Create conversation with your followings.
      5. Message emoji, Text, Image, Sticker.
   # Api,Database and Image Storage:
